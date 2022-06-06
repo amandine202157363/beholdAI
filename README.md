@@ -11,3 +11,8 @@ DATASETS:
 (3) Accession Number, Model Output 
 
 METHOD: Data cleaning; Visualisation methods (i.e. barplots, interactive charts); Logistic Regression for independent (i.e. gender and manufacturer) and dependent (i.e. model's performance) categorical variables. 
+
+FILES: 
+
+JrDS_CodingTest.ipynb - Python code to run the analysis 
+
