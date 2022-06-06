@@ -14,5 +14,6 @@ METHOD: Data cleaning; Visualisation methods (i.e. barplots, interactive charts)
 
 FILES: 
 
---> JrDS_CodingTest.ipynb - Python code to run the analysis 
---> Report.BAI.pdf - Final Report (i.e. Introduction, Methods, Results) 
+~> JrDS_CodingTest.ipynb - Python code to run the analysis 
+
+~> Report.BAI.pdf - Final Report (i.e. Introduction, Methods, Results) 
