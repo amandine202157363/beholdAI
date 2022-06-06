@@ -1,6 +1,6 @@
 # JUNIOR DATA SCIENCE - CODING TEST 
 
-MOTIVATION: Assess the performance of an CXRAYs classification supervised machine learning model based on two characteristics: patient's gender and image manufacturer (i.e. brand capturing the image) 
+MOTIVATION: Assess the performance of a supervised machine learning model that classifies CXRAYs as Normal or Abnormal. The evaluation will be based on two characteristics: patient's gender and image manufacturer (i.e. brand capturing the image). A successful end of this project will result in concluding on the accuracy of the model varying across gender and manufacturers. 
 
 DATASETS: 
 
@@ -10,4 +10,4 @@ DATASETS:
 
 (3) Accession Number, Model Output 
 
-METHOD: Data cleaning; Visualisation methods (i.e. barplots, interactive charts); Logistic Regression for independent and dependent categorical variables
+METHOD: Data cleaning; Visualisation methods (i.e. barplots, interactive charts); Logistic Regression for independent (i.e. gender and manufacturer) and dependent (i.e. model's performance) categorical variables. 
